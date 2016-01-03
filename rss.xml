@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Schram Family]]></title>
+        <description><![CDATA[The Schram Family]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jan 2016 20:00:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Post]]></title>
+            <description><![CDATA[<article><h1>First Post</h1><p>The Schram Family - Anchorage, Alaska</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5069d3b0c085e36291c631ccf6ba72b413d911cb.jpg"></article>]]></description>
+            <link>undefinedfirst-post/index.html</link>
+            <guid isPermaLink="false">630bd89c-c74f-47e8-8581-934ab9b4c569</guid>
+            <pubDate>Sun, 03 Jan 2016 20:00:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
