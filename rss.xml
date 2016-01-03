@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Schram Family]]></title>
         <description><![CDATA[The Schram Family]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-schram-family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 20:00:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 20:02:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-schram-family/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Post]]></title>
             <description><![CDATA[<article><h1>First Post</h1><p>The Schram Family - Anchorage, Alaska</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5069d3b0c085e36291c631ccf6ba72b413d911cb.jpg"></article>]]></description>
-            <link>undefinedfirst-post/index.html</link>
+            <link>https://thegrid.ai/the-schram-family/first-post/index.html</link>
             <guid isPermaLink="false">630bd89c-c74f-47e8-8581-934ab9b4c569</guid>
-            <pubDate>Sun, 03 Jan 2016 20:00:31 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 20:02:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
